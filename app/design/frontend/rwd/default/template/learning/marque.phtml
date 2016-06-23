@@ -1,0 +1,10 @@
+<?php $marques = $this->getMarques(); ?>
+<ul class="bxslider">
+​
+<?php foreach ($marques as $marque): ?>
+<li>
+    <img src="<?php echo Mage::helper('learning_marque')->getImageUrl($marque->getImageUrl()); ?>" title="<?php echo $marque->getName(); ?>">
+        </li>
+<?php endforeach; ?>
+​
+</ul>
