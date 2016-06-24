@@ -1,0 +1,312 @@
+2016-06-24T08:36:27+00:00 DEBUG (7): Array
+(
+    [url] => https://api-3t.sandbox.paypal.com/nvp
+    [SetExpressCheckout] => Array
+        (
+            [PAYMENTACTION] => Authorization
+            [AMT] => 1.00
+            [CURRENCYCODE] => EUR
+            [RETURNURL] => http://127.0.0.1:8888/index.php/paypal/express/return/
+            [CANCELURL] => http://127.0.0.1:8888/index.php/paypal/express/cancel/
+            [INVNUM] => 100000002
+            [SOLUTIONTYPE] => Mark
+            [GIROPAYCANCELURL] => http://127.0.0.1:8888/index.php/paypal/express/cancel/
+            [GIROPAYSUCCESSURL] => http://127.0.0.1:8888/index.php/checkout/onepage/success/
+            [BANKTXNPENDINGURL] => http://127.0.0.1:8888/index.php/checkout/onepage/success/
+            [LOCALECODE] => fr_FR
+            [ITEMAMT] => 1.00
+            [TAXAMT] => 0.00
+            [SHIPPINGAMT] => 0.00
+            [L_NUMBER0] => 10
+            [L_NAME0] => article test1
+            [L_QTY0] => 1
+            [L_AMT0] => 1.00
+            [METHOD] => SetExpressCheckout
+            [VERSION] => 72.0
+            [USER] => ****
+            [PWD] => ****
+            [SIGNATURE] => ****
+            [BUTTONSOURCE] => Magento_Cart_Community
+        )
+
+    [response] => Array
+        (
+        )
+
+    [__pid] => 1081
+)
+
+2016-06-24T08:36:29+00:00 DEBUG (7): Array
+(
+    [url] => https://api-3t.sandbox.paypal.com/nvp
+    [getPalDetails] => Array
+        (
+            [METHOD] => getPalDetails
+            [VERSION] => 72.0
+            [USER] => ****
+            [PWD] => ****
+            [SIGNATURE] => ****
+            [BUTTONSOURCE] => Magento_Cart_Community
+        )
+
+    [response] => Array
+        (
+        )
+
+    [__pid] => 1081
+)
+
+2016-06-24T09:13:33+00:00 DEBUG (7): Array
+(
+    [url] => https://api-3t.sandbox.paypal.com/nvp
+    [SetExpressCheckout] => Array
+        (
+            [PAYMENTACTION] => Authorization
+            [AMT] => 1.00
+            [CURRENCYCODE] => EUR
+            [RETURNURL] => http://127.0.0.1:8888/index.php/paypal/express/return/
+            [CANCELURL] => http://127.0.0.1:8888/index.php/paypal/express/cancel/
+            [INVNUM] => 100000002
+            [SOLUTIONTYPE] => Mark
+            [GIROPAYCANCELURL] => http://127.0.0.1:8888/index.php/paypal/express/cancel/
+            [GIROPAYSUCCESSURL] => http://127.0.0.1:8888/index.php/checkout/onepage/success/
+            [BANKTXNPENDINGURL] => http://127.0.0.1:8888/index.php/checkout/onepage/success/
+            [LOCALECODE] => fr_FR
+            [ITEMAMT] => 1.00
+            [TAXAMT] => 0.00
+            [SHIPPINGAMT] => 0.00
+            [L_NUMBER0] => 10
+            [L_NAME0] => article test1
+            [L_QTY0] => 1
+            [L_AMT0] => 1.00
+            [METHOD] => SetExpressCheckout
+            [VERSION] => 72.0
+            [USER] => ****
+            [PWD] => ****
+            [SIGNATURE] => ****
+            [BUTTONSOURCE] => Magento_Cart_Community
+        )
+
+    [response] => Array
+        (
+        )
+
+    [__pid] => 1043
+)
+
+2016-06-24T09:17:44+00:00 DEBUG (7): Array
+(
+    [url] => https://api-3t.sandbox.paypal.com/nvp
+    [SetExpressCheckout] => Array
+        (
+            [PAYMENTACTION] => Authorization
+            [AMT] => 6.00
+            [CURRENCYCODE] => EUR
+            [RETURNURL] => http://127.0.0.1:8888/index.php/paypal/express/return/
+            [CANCELURL] => http://127.0.0.1:8888/index.php/paypal/express/cancel/
+            [INVNUM] => 100000002
+            [SOLUTIONTYPE] => Mark
+            [GIROPAYCANCELURL] => http://127.0.0.1:8888/index.php/paypal/express/cancel/
+            [GIROPAYSUCCESSURL] => http://127.0.0.1:8888/index.php/checkout/onepage/success/
+            [BANKTXNPENDINGURL] => http://127.0.0.1:8888/index.php/checkout/onepage/success/
+            [LOCALECODE] => fr_FR
+            [ITEMAMT] => 1.00
+            [TAXAMT] => 0.00
+            [SHIPPINGAMT] => 5.00
+            [L_NUMBER0] => 10
+            [L_NAME0] => article test1
+            [L_QTY0] => 1
+            [L_AMT0] => 1.00
+            [BUSINESS] => 
+            [NOTETEXT] => 
+            [EMAIL] => toto@gmail.com
+            [FIRSTNAME] => test
+            [LASTNAME] => test
+            [MIDDLENAME] => 
+            [SALUTATION] => 
+            [SUFFIX] => 
+            [COUNTRYCODE] => FR
+            [STATE] => 75
+            [CITY] => paris
+            [STREET] => bcsdjlhv
+            [ZIP] => 75000
+            [PHONENUM] => 0123456789
+            [SHIPTOCOUNTRYCODE] => FR
+            [SHIPTOSTATE] => 75
+            [SHIPTOCITY] => paris
+            [SHIPTOSTREET] => bcsdjlhv
+            [SHIPTOZIP] => 75000
+            [SHIPTOPHONENUM] => 0123456789
+            [SHIPTOSTREET2] => 
+            [STREET2] => 
+            [SHIPTONAME] => test test
+            [ADDROVERRIDE] => 1
+            [METHOD] => SetExpressCheckout
+            [VERSION] => 72.0
+            [USER] => ****
+            [PWD] => ****
+            [SIGNATURE] => ****
+            [BUTTONSOURCE] => Magento_Cart_Community
+        )
+
+    [response] => Array
+        (
+        )
+
+    [__pid] => 1041
+)
+
+2016-06-24T12:52:27+00:00 DEBUG (7): Array
+(
+    [url] => https://api-3t.sandbox.paypal.com/nvp
+    [SetExpressCheckout] => Array
+        (
+            [PAYMENTACTION] => Authorization
+            [AMT] => 1.00
+            [CURRENCYCODE] => EUR
+            [RETURNURL] => http://127.0.0.1:8888/index.php/paypal/express/return/
+            [CANCELURL] => http://127.0.0.1:8888/index.php/paypal/express/cancel/
+            [INVNUM] => 100000003
+            [SOLUTIONTYPE] => Mark
+            [GIROPAYCANCELURL] => http://127.0.0.1:8888/index.php/paypal/express/cancel/
+            [GIROPAYSUCCESSURL] => http://127.0.0.1:8888/index.php/checkout/onepage/success/
+            [BANKTXNPENDINGURL] => http://127.0.0.1:8888/index.php/checkout/onepage/success/
+            [LOCALECODE] => fr_FR
+            [ITEMAMT] => 1.00
+            [TAXAMT] => 0.00
+            [SHIPPINGAMT] => 0.00
+            [L_NUMBER0] => 10
+            [L_NAME0] => article test1
+            [L_QTY0] => 1
+            [L_AMT0] => 1.00
+            [METHOD] => SetExpressCheckout
+            [VERSION] => 72.0
+            [USER] => ****
+            [PWD] => ****
+            [SIGNATURE] => ****
+            [BUTTONSOURCE] => Magento_Cart_Community
+        )
+
+    [response] => Array
+        (
+            [TOKEN] => EC-95V87847KB599630S
+            [TIMESTAMP] => 2016-06-24T12:52:34Z
+            [CORRELATIONID] => b31f927d31aad
+            [ACK] => Success
+            [VERSION] => 72.0
+            [BUILD] => 000000
+        )
+
+    [__pid] => 26100
+)
+
+2016-06-24T12:53:01+00:00 DEBUG (7): Array
+(
+    [url] => https://api-3t.sandbox.paypal.com/nvp
+    [GetExpressCheckoutDetails] => Array
+        (
+            [TOKEN] => EC-95V87847KB599630S
+            [METHOD] => GetExpressCheckoutDetails
+            [VERSION] => 72.0
+            [USER] => ****
+            [PWD] => ****
+            [SIGNATURE] => ****
+            [BUTTONSOURCE] => Magento_Cart_Community
+        )
+
+    [response] => Array
+        (
+            [TOKEN] => EC-95V87847KB599630S
+            [BILLINGAGREEMENTACCEPTEDSTATUS] => 0
+            [CHECKOUTSTATUS] => PaymentActionNotInitiated
+            [TIMESTAMP] => 2016-06-24T12:53:08Z
+            [CORRELATIONID] => d4a2baaa5e3ea
+            [ACK] => Success
+            [VERSION] => 72.0
+            [BUILD] => 000000
+            [EMAIL] => esgieb2015@gmail.com
+            [PAYERID] => K6QWWJNAWESUW
+            [PAYERSTATUS] => verified
+            [FIRSTNAME] => MagentoProjet
+            [LASTNAME] => MagentoProjet
+            [COUNTRYCODE] => FR
+            [SHIPTONAME] => MagentoProjet MagentoProjet
+            [SHIPTOSTREET] => Av. de la Pelouse, 87648672 Mayet
+            [SHIPTOCITY] => Paris
+            [SHIPTOSTATE] => Alsace
+            [SHIPTOZIP] => 75002
+            [SHIPTOCOUNTRYCODE] => FR
+            [SHIPTOCOUNTRYNAME] => France
+            [ADDRESSSTATUS] => Confirmed
+            [CURRENCYCODE] => EUR
+            [AMT] => 1.00
+            [ITEMAMT] => 1.00
+            [SHIPPINGAMT] => 0.00
+            [HANDLINGAMT] => 0.00
+            [TAXAMT] => 0.00
+            [INVNUM] => 100000003
+            [INSURANCEAMT] => 0.00
+            [SHIPDISCAMT] => 0.00
+            [INSURANCEOPTIONOFFERED] => false
+            [L_NAME0] => article test1
+            [L_NUMBER0] => 10
+            [L_QTY0] => 1
+            [L_TAXAMT0] => 0.00
+            [L_AMT0] => 1.00
+            [PAYMENTREQUEST_0_CURRENCYCODE] => EUR
+            [PAYMENTREQUEST_0_AMT] => 1.00
+            [PAYMENTREQUEST_0_ITEMAMT] => 1.00
+            [PAYMENTREQUEST_0_SHIPPINGAMT] => 0.00
+            [PAYMENTREQUEST_0_HANDLINGAMT] => 0.00
+            [PAYMENTREQUEST_0_TAXAMT] => 0.00
+            [PAYMENTREQUEST_0_INVNUM] => 100000003
+            [PAYMENTREQUEST_0_INSURANCEAMT] => 0.00
+            [PAYMENTREQUEST_0_SHIPDISCAMT] => 0.00
+            [PAYMENTREQUEST_0_SELLERPAYPALACCOUNTID] => esgieb2015-business@gmail.com
+            [PAYMENTREQUEST_0_INSURANCEOPTIONOFFERED] => false
+            [PAYMENTREQUEST_0_SHIPTONAME] => MagentoProjet MagentoProjet
+            [PAYMENTREQUEST_0_SHIPTOSTREET] => Av. de la Pelouse, 87648672 Mayet
+            [PAYMENTREQUEST_0_SHIPTOCITY] => Paris
+            [PAYMENTREQUEST_0_SHIPTOSTATE] => Alsace
+            [PAYMENTREQUEST_0_SHIPTOZIP] => 75002
+            [PAYMENTREQUEST_0_SHIPTOCOUNTRYCODE] => FR
+            [PAYMENTREQUEST_0_SHIPTOCOUNTRYNAME] => France
+            [PAYMENTREQUEST_0_ADDRESSSTATUS] => Confirmed
+            [L_PAYMENTREQUEST_0_NAME0] => article test1
+            [L_PAYMENTREQUEST_0_NUMBER0] => 10
+            [L_PAYMENTREQUEST_0_QTY0] => 1
+            [L_PAYMENTREQUEST_0_TAXAMT0] => 0.00
+            [L_PAYMENTREQUEST_0_AMT0] => 1.00
+            [PAYMENTREQUESTINFO_0_ERRORCODE] => 0
+        )
+
+    [__pid] => 26062
+)
+
+2016-06-24T13:00:56+00:00 DEBUG (7): Array
+(
+    [url] => https://api-3t.sandbox.paypal.com/nvp
+    [getPalDetails] => Array
+        (
+            [METHOD] => getPalDetails
+            [VERSION] => 72.0
+            [USER] => ****
+            [PWD] => ****
+            [SIGNATURE] => ****
+            [BUTTONSOURCE] => Magento_Cart_Community
+        )
+
+    [response] => Array
+        (
+            [PAL] => LRLUP25DZ6QHU
+            [LOCALE] => fr_FR
+            [TIMESTAMP] => 2016-06-24T13:01:03Z
+            [CORRELATIONID] => e83f6b86a0308
+            [ACK] => Success
+            [VERSION] => 72.0
+            [BUILD] => 22386173
+        )
+
+    [__pid] => 26129
+)
+
